@@ -7,8 +7,8 @@
 
 ## Tasks:
 
-- Deploy HTML webpage in your machine
-- Use git to pull your webpage to your server
+- Deploy HTML webpage in your virtual machine
+- Use github to host your git repo
 
 ## Additional Challenge:
 
@@ -18,5 +18,5 @@
 ## Submission:
 
 - Take screen shot of the webpage on the browser 
-- Take screen shot of the **git pull** command
+- Take screen shot of the **git clone** command
 
