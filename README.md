@@ -10,7 +10,13 @@
 - Deploy HTML webpage in your machine
 - Use git to pull your webpage to your server
 
+## Additional Challenge:
+
+- Deploy your website using Alibaba cloud services.
+
+
 ## Submission:
 
 - Take screen shot of the webpage on the browser 
 - Take screen shot of the **git pull** command
+
