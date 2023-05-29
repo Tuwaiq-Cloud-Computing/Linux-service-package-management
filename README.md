@@ -13,5 +13,4 @@
 ## Submission:
 
 - Take screen shot of the webpage on the browser 
-- Take screen shot of the **git clone** command
 
