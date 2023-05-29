@@ -7,13 +7,8 @@
 
 ## Tasks:
 
-- Deploy HTML webpage in your virtual machine
-- Use github to host your git repo
-
-## Additional Challenge:
-
+- Deploy HTML webpage in your ECS
 - Deploy your website using Alibaba cloud services.
-
 
 ## Submission:
 
