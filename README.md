@@ -2,13 +2,13 @@
 
 ## Setup:
 
-- Install apache2 
+- Install httpd 
 - Enable and start the apache2 server
 
 ## Tasks:
 
+- Create a new ECS
 - Deploy HTML webpage in your ECS
-- Deploy your website using Alibaba cloud services.
 
 ## Submission:
 
